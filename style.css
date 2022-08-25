@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400;500;600;700;800&display=swap');
+
+*{
+    font-family: 'Open Sans', sans-serif;
+}
+
+.nav-but:hover{
+    color: crimson!important;
+}
+
+/* body style */
+.bg-body{
+    background-color: #EBD0DD!important;
+    margin: 0px 5%;
+    border-radius: 20px;
+}
+span{
+    display: block;
+    font-weight: 600;
+    font-size: 30px;
+    padding-bottom: 5px;
+    color: #FD0074;
+}
+.text-body h2{
+    font-weight: 700;
+    font-size: 42px;
+    padding-bottom: 12px;
+}
+.text-body p{
+    padding: 0px 8% 0px 0px;
+}
+.btn-color{
+    background-color: #FD0074;
+    padding: 8px 14px!important;
+    color: #ffffff;
+}
+.img-body img{
+    padding: 5%;
+}
+
+/* catagories strt */
+
+.catagories{
+    margin-top: 400px;
+}
+.catagories-text h2{
+    font-size: 30px;
+    font-weight: 700;
+}
+.catagory-content{
+    display: flex;
+    background-color: #E2407A;
+    padding: 0px 7%;
+    margin: 20px 13px;
+    width: 30.87%;
+    border-radius: 10px;
+}
+.ctg-1{
+    background-color: #EFC50A;
+}
+.ctg-3{
+    background-color: #0A40EF;
+}
+.catagory-content img{
+    width: 90px;
+}
+.catagory-content h2{
+    padding-top: 30px;
+    color: #ffffff;
+    font-weight: 600;
+}
+
+/* category ends */
+
+/* shoe style  */
+.shoe{
+    padding: 0px 5%;
+}
+.shoe-text h2{
+    padding-top: 20px;
+    font-weight: 600;
+}
+.shoe-text span{
+    font-size: 18px;
+    color: #EFC50A;
+}
+.card-border{
+    border: none!important;
+    border-radius: 15px;
+}
+
+/* shoe style ends */
+/* backpack and shoe styles are same */
+
+
+/* footer style strt */
+
+
+
+
+             /* THE END  */
